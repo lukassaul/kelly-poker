@@ -1,0 +1,3070 @@
+Cas: round: 0
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 8 players:
+Cas: Player: 18
+Cas: Player: 6
+Cas: Player: 0
+Cas: Player: 2
+Cas: Player: 1
+Cas: Player: 10
+Cas: Player: 15
+Cas: Player: 13
+18: Qs Ks null null null null null
+18: placing bet in round 0 : 4427 bankroll: 5573
+Cas: Cas: got bet: 4427
+6: Jd 3h null null null null null
+6: folded in round 0 to bet: 4427
+6: placing bet in round 0 : 4427 bankroll: 9950
+Cas: Cas: got bet: 4427
+Cas: we have a fold
+0: 7d Td null null null null null
+0: folded in round: 0 to bet: 4427
+0: placing bet in round 0 : 4427 bankroll: 9950
+Cas: Cas: got bet: 4427
+Cas: we have a fold
+2: 5s Js null null null null null
+2: folded in round: 0 to bet: 4427
+2: placing bet in round 0 : 4427 bankroll: 9950
+Cas: Cas: got bet: 4427
+Cas: we have a fold
+1: 3d Qh null null null null null
+1: folded in round 0 to bet: 4427
+1: placing bet in round 0 : 4427 bankroll: 9950
+Cas: Cas: got bet: 4427
+Cas: we have a fold
+10: 2h 6s null null null null null
+10: folded in round 0 to bet: 4427
+10: placing bet in round 0 : 4427 bankroll: 9950
+Cas: Cas: got bet: 4427
+Cas: we have a fold
+15: Jh Ts null null null null null
+15: folded in round: 0 to bet: 4427
+15: placing bet in round 0 : 4427 bankroll: 9950
+Cas: Cas: got bet: 4427
+Cas: we have a fold
+13: Kd Kc null null null null null
+13: going all in on: 4427
+13: placing bet in round 0 : 10000 bankroll: 0
+Cas: Cas: got bet: 10000
+18: Qs Ks null null null null null
+18: folded in round: 1 to bet: 10000
+18: placing bet in round 1 : 10000 bankroll: 5573
+Cas: calls in pocket - we have a fold
+Cas: flops: Kh 4d 8h numIn:1
+13: Kd Kc Kh 4d 8h null null
+13: calling on shit cards
+13: placing bet in round 2 : 10000 bankroll: 0
+13: Kd Kc Kh 4d 8h 3s null
+13: calling on shit cards
+13: placing bet in round 4 : 10000 bankroll: 0
+13: Kd Kc Kh 4d 8h 3s 5c
+13: calling on shit cards
+13: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 13 : 15127$
+0 : -50
+1 : -50
+2 : -50
+3 : 0
+4 : 0
+5 : 0
+6 : -50
+7 : 0
+8 : 0
+9 : 0
+10 : -50
+11 : 0
+12 : 0
+13 : 5127
+14 : 0
+15 : -50
+16 : 0
+17 : 0
+18 : -4427
+19 : 0
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 5 players:
+Cas: Player: 7
+Cas: Player: 10
+Cas: Player: 2
+Cas: Player: 13
+Cas: Player: 8
+7: 4s Jh null null null null null
+7: calling on shit cards
+7: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+10: Ad 9d null null null null null
+10: placing bet in round 0 : 378 bankroll: 9622
+Cas: Cas: got bet: 378
+2: 6h 9c null null null null null
+2: folded in round 0 to bet: 378
+2: placing bet in round 0 : 378 bankroll: 9950
+Cas: Cas: got bet: 378
+Cas: we have a fold
+13: 2h 7s Kh 4d 8h 3s 5c
+13: folded in round 0 to bet: 378
+13: placing bet in round 0 : 378 bankroll: 9950
+Cas: Cas: got bet: 378
+Cas: we have a fold
+8: As Qs null null null null null
+8: placing bet in round 0 : 3184 bankroll: 6816
+Cas: Cas: got bet: 3184
+7: 4s Jh null null null null null
+7: folded in round 1 to bet: 3184
+7: placing bet in round 1 : 3184 bankroll: 9950
+Cas: calls in pocket - we have a fold
+10: Ad 9d null null null null null
+10: folded in round: 1 to bet: 3184
+10: placing bet in round 1 : 3184 bankroll: 9622
+Cas: calls in pocket - we have a fold
+Cas: flops: 6s 7d Qc numIn:1
+8: As Qs 6s 7d Qc null null
+8: going all in on: 3184
+8: placing bet in round 2 : 10000 bankroll: 0
+8: As Qs 6s 7d Qc Kd null
+8: calling on shit cards
+8: placing bet in round 4 : 10000 bankroll: 0
+8: As Qs 6s 7d Qc Kd 5c
+8: calling on shit cards
+8: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 8 : 10778$
+0 : -50
+1 : -50
+2 : -100
+3 : 0
+4 : 0
+5 : 0
+6 : -50
+7 : -50
+8 : 778
+9 : 0
+10 : -428
+11 : 0
+12 : 0
+13 : 5077
+14 : 0
+15 : -50
+16 : 0
+17 : 0
+18 : -4427
+19 : 0
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 6 players:
+Cas: Player: 3
+Cas: Player: 19
+Cas: Player: 6
+Cas: Player: 16
+Cas: Player: 10
+Cas: Player: 0
+3: Jh Kh null null null null null
+3: placing bet in round 0 : 8225 bankroll: 1775
+Cas: Cas: got bet: 8225
+19: 8d Kc null null null null null
+19: folded in round: 0 to bet: 8225
+19: placing bet in round 0 : 8225 bankroll: 9950
+Cas: Cas: got bet: 8225
+Cas: we have a fold
+6: 7s 4h null null null null null
+6: folded in round 0 to bet: 8225
+6: placing bet in round 0 : 8225 bankroll: 9950
+Cas: Cas: got bet: 8225
+Cas: we have a fold
+16: 8c 5c null null null null null
+16: folded in round: 0 to bet: 8225
+16: placing bet in round 0 : 8225 bankroll: 9950
+Cas: Cas: got bet: 8225
+Cas: we have a fold
+10: 5d 3s null null null null null
+10: folded in round 0 to bet: 8225
+10: placing bet in round 0 : 8225 bankroll: 9950
+Cas: Cas: got bet: 8225
+Cas: we have a fold
+0: Qs 7d null null null null null
+0: folded in round 0 to bet: 8225
+0: placing bet in round 0 : 8225 bankroll: 9950
+Cas: Cas: got bet: 8225
+Cas: we have a fold
+Cas: flops: Qd 7h Ah numIn:1
+3: Jh Kh Qd 7h Ah null null
+3: calling on shit cards
+3: placing bet in round 2 : 8225 bankroll: 1775
+3: Jh Kh Qd 7h Ah 2h null
+3: calling on shit cards
+3: placing bet in round 4 : 8225 bankroll: 1775
+3: Jh Kh Qd 7h Ah 2h 8h
+3: calling on shit cards
+3: placing bet in round 6 : 8225 bankroll: 1775
+Cas: Delivering pot to one remainder: 3 : 8775$
+0 : -100
+1 : -50
+2 : -100
+3 : 550
+4 : 0
+5 : 0
+6 : -100
+7 : -50
+8 : 778
+9 : 0
+10 : -478
+11 : 0
+12 : 0
+13 : 5077
+14 : 0
+15 : -50
+16 : -50
+17 : 0
+18 : -4427
+19 : -50
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 8 players:
+Cas: Player: 3
+Cas: Player: 6
+Cas: Player: 18
+Cas: Player: 4
+Cas: Player: 7
+Cas: Player: 0
+Cas: Player: 2
+Cas: Player: 17
+3: 8d 6d Qd 7h Ah 2h 8h
+3: placing bet in round 0 : 397 bankroll: 9603
+Cas: Cas: got bet: 397
+6: Qc Qd null null null null null
+6: placing bet in round 0 : 1666 bankroll: 8334
+Cas: Cas: got bet: 1666
+18: 8c 9c null null null null null
+18: placing bet in round 0 : 5323 bankroll: 4677
+Cas: Cas: got bet: 5323
+4: 5s Kc null null null null null
+4: folded in round: 0 to bet: 5323
+4: placing bet in round 0 : 5323 bankroll: 9950
+Cas: Cas: got bet: 5323
+Cas: we have a fold
+7: Ks 3h null null null null null
+7: folded in round 0 to bet: 5323
+7: placing bet in round 0 : 5323 bankroll: 9950
+Cas: Cas: got bet: 5323
+Cas: we have a fold
+0: 8h Th null null null null null
+0: folded in round: 0 to bet: 5323
+0: placing bet in round 0 : 5323 bankroll: 9950
+Cas: Cas: got bet: 5323
+Cas: we have a fold
+2: Js 8s null null null null null
+2: folded in round 0 to bet: 5323
+2: placing bet in round 0 : 5323 bankroll: 9950
+Cas: Cas: got bet: 5323
+Cas: we have a fold
+17: 9d Ad null null null null null
+17: folded in round: 0 to bet: 5323
+17: placing bet in round 0 : 5323 bankroll: 9950
+Cas: Cas: got bet: 5323
+Cas: we have a fold
+3: 8d 6d Qd 7h Ah 2h 8h
+3: folded in round 1 to bet: 5323
+3: placing bet in round 1 : 5323 bankroll: 9603
+Cas: calls in pocket - we have a fold
+6: Qc Qd null null null null null
+6: folded in round: 1 to bet: 5323
+6: placing bet in round 1 : 5323 bankroll: 8334
+Cas: calls in pocket - we have a fold
+Cas: flops: 4s Ts Kh numIn:1
+18: 8c 9c 4s Ts Kh null null
+18: calling on shit cards
+18: placing bet in round 2 : 5323 bankroll: 4677
+18: 8c 9c 4s Ts Kh 6c null
+18: calling on shit cards
+18: placing bet in round 4 : 5323 bankroll: 4677
+18: 8c 9c 4s Ts Kh 6c 7d
+18: going all in on: 5323
+18: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 18 : 12713$
+0 : -150
+1 : -50
+2 : -150
+3 : 153
+4 : -50
+5 : 0
+6 : -1766
+7 : -100
+8 : 778
+9 : 0
+10 : -478
+11 : 0
+12 : 0
+13 : 5077
+14 : 0
+15 : -50
+16 : -50
+17 : -50
+18 : -1714
+19 : -50
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 9 players:
+Cas: Player: 0
+Cas: Player: 9
+Cas: Player: 17
+Cas: Player: 13
+Cas: Player: 18
+Cas: Player: 7
+Cas: Player: 16
+Cas: Player: 6
+Cas: Player: 2
+0: Ts Ah null null null null null
+0: placing bet in round 0 : 110 bankroll: 9890
+Cas: Cas: got bet: 110
+9: Th Td null null null null null
+9: placing bet in round 0 : 5306 bankroll: 4694
+Cas: Cas: got bet: 5306
+17: Qc 8c null null null null null
+17: folded in round: 0 to bet: 5306
+17: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+13: 8s 8h Kh 4d 8h 3s 5c
+13: folded in round: 0 to bet: 5306
+13: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+18: 4s 2d 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 5306
+18: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+7: 4d 9d null null null null null
+7: folded in round 0 to bet: 5306
+7: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+16: 4h 3s null null null null null
+16: folded in round 0 to bet: 5306
+16: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+6: Ks 9c null null null null null
+6: folded in round: 0 to bet: 5306
+6: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+2: 8d 7c null null null null null
+2: folded in round 0 to bet: 5306
+2: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+0: Ts Ah null null null null null
+0: folded in round: 1 to bet: 5306
+0: placing bet in round 1 : 5306 bankroll: 9890
+Cas: calls in pocket - we have a fold
+Cas: flops: Jh 3c Ac numIn:1
+9: Th Td Jh 3c Ac null null
+9: going all in on: 5306
+9: placing bet in round 2 : 10000 bankroll: 0
+9: Th Td Jh 3c Ac 2c null
+9: calling on shit cards
+9: placing bet in round 4 : 10000 bankroll: 0
+9: Th Td Jh 3c Ac 2c Kh
+9: calling on shit cards
+9: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 9 : 10910$
+0 : -260
+1 : -50
+2 : -200
+3 : 153
+4 : -50
+5 : 0
+6 : -1816
+7 : -150
+8 : 778
+9 : 910
+10 : -478
+11 : 0
+12 : 0
+13 : 5027
+14 : 0
+15 : -50
+16 : -100
+17 : -100
+18 : -1764
+19 : -50
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 6 players:
+Cas: Player: 5
+Cas: Player: 1
+Cas: Player: 4
+Cas: Player: 11
+Cas: Player: 0
+Cas: Player: 9
+5: Tc 4s null null null null null
+5: calling on shit cards
+5: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+1: 5c 8h null null null null null
+1: calling on shit cards
+1: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+4: 5d Kh null null null null null
+4: calling on shit cards
+4: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+11: 8s Ts null null null null null
+11: placing bet in round 0 : 82 bankroll: 9918
+Cas: Cas: got bet: 82
+0: 6c 4c null null null null null
+0: folded in round 0 to bet: 82
+0: placing bet in round 0 : 82 bankroll: 9950
+Cas: Cas: got bet: 82
+Cas: we have a fold
+9: 8c 6h Jh 3c Ac 2c Kh
+9: folded in round 0 to bet: 82
+9: placing bet in round 0 : 82 bankroll: 9950
+Cas: Cas: got bet: 82
+Cas: we have a fold
+5: Tc 4s null null null null null
+5: folded in round 1 to bet: 82
+5: placing bet in round 1 : 82 bankroll: 9950
+Cas: calls in pocket - we have a fold
+1: 5c 8h null null null null null
+1: folded in round 1 to bet: 82
+1: placing bet in round 1 : 82 bankroll: 9950
+Cas: calls in pocket - we have a fold
+4: 5d Kh null null null null null
+4: placing bet in round 1 : 82 bankroll: 9918
+Cas: flops: 9c 9h 2c numIn:2
+4: 5d Kh 9c 9h 2c null null
+4: calling on shit cards
+4: placing bet in round 2 : 82 bankroll: 9918
+11: 8s Ts 9c 9h 2c null null
+11: calling on shit cards
+11: placing bet in round 2 : 82 bankroll: 9918
+4: 5d Kh 9c 9h 2c 3h null
+4: calling on shit cards
+4: placing bet in round 4 : 82 bankroll: 9918
+11: 8s Ts 9c 9h 2c 3h null
+11: calling on shit cards
+11: placing bet in round 4 : 82 bankroll: 9918
+4: 5d Kh 9c 9h 2c 3h Qh
+4: calling on shit cards
+4: placing bet in round 6 : 82 bankroll: 9918
+11: 8s Ts 9c 9h 2c 3h Qh
+11: calling on shit cards
+11: placing bet in round 6 : 82 bankroll: 9918
+Cas: pot goes to showdown winner: 4
+0 : -310
+1 : -100
+2 : -200
+3 : 153
+4 : 532
+5 : -50
+6 : -1816
+7 : -150
+8 : 778
+9 : 860
+10 : -478
+11 : -82
+12 : 0
+13 : 5027
+14 : 0
+15 : -50
+16 : -100
+17 : -100
+18 : -1764
+19 : -50
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 8 players:
+Cas: Player: 13
+Cas: Player: 14
+Cas: Player: 7
+Cas: Player: 2
+Cas: Player: 6
+Cas: Player: 19
+Cas: Player: 3
+Cas: Player: 0
+13: 9h 7d Kh 4d 8h 3s 5c
+13: calling on shit cards
+13: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+14: 2s 9c null null null null null
+14: calling on shit cards
+14: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+7: Js Jd null null null null null
+7: placing bet in round 0 : 3557 bankroll: 6443
+Cas: Cas: got bet: 3557
+2: 8d Qd null null null null null
+2: folded in round: 0 to bet: 3557
+2: placing bet in round 0 : 3557 bankroll: 9950
+Cas: Cas: got bet: 3557
+Cas: we have a fold
+6: Qh Ks null null null null null
+6: folded in round: 0 to bet: 3557
+6: placing bet in round 0 : 3557 bankroll: 9950
+Cas: Cas: got bet: 3557
+Cas: we have a fold
+19: Td As null null null null null
+19: placing bet in round 0 : 5306 bankroll: 4694
+Cas: Cas: got bet: 5306
+3: Kd 4h Qd 7h Ah 2h 8h
+3: folded in round 0 to bet: 5306
+3: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+0: 3d Qc null null null null null
+0: folded in round: 0 to bet: 5306
+0: placing bet in round 0 : 5306 bankroll: 9950
+Cas: Cas: got bet: 5306
+Cas: we have a fold
+13: 9h 7d Kh 4d 8h 3s 5c
+13: folded in round 1 to bet: 5306
+13: placing bet in round 1 : 5306 bankroll: 9950
+Cas: calls in pocket - we have a fold
+14: 2s 9c null null null null null
+14: folded in round 1 to bet: 5306
+14: placing bet in round 1 : 5306 bankroll: 9950
+Cas: calls in pocket - we have a fold
+7: Js Jd null null null null null
+7: folded in round: 1 to bet: 5306
+7: placing bet in round 1 : 5306 bankroll: 6443
+Cas: calls in pocket - we have a fold
+Cas: flops: 5d 4s Jh numIn:1
+19: Td As 5d 4s Jh null null
+19: calling on shit cards
+19: placing bet in round 2 : 5306 bankroll: 4694
+19: Td As 5d 4s Jh Tc null
+19: going all in on: 5306
+19: placing bet in round 4 : 10000 bankroll: 0
+19: Td As 5d 4s Jh Tc 9s
+19: calling on shit cards
+19: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 19 : 14257$
+0 : -360
+1 : -100
+2 : -250
+3 : 103
+4 : 532
+5 : -50
+6 : -1866
+7 : -3707
+8 : 778
+9 : 860
+10 : -478
+11 : -82
+12 : 0
+13 : 4977
+14 : -50
+15 : -50
+16 : -100
+17 : -100
+18 : -1764
+19 : 4207
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 5 players:
+Cas: Player: 8
+Cas: Player: 15
+Cas: Player: 1
+Cas: Player: 4
+Cas: Player: 10
+8: 9d Kd 6s 7d Qc Kd 5c
+8: placing bet in round 0 : 2547 bankroll: 7453
+Cas: Cas: got bet: 2547
+15: Qs Th null null null null null
+15: folded in round 0 to bet: 2547
+15: placing bet in round 0 : 2547 bankroll: 9950
+Cas: Cas: got bet: 2547
+Cas: we have a fold
+1: 4d 2c null null null null null
+1: folded in round 0 to bet: 2547
+1: placing bet in round 0 : 2547 bankroll: 9950
+Cas: Cas: got bet: 2547
+Cas: we have a fold
+4: 8s Ac 9c 9h 2c 3h Qh
+4: folded in round 0 to bet: 2547
+4: placing bet in round 0 : 2547 bankroll: 9950
+Cas: Cas: got bet: 2547
+Cas: we have a fold
+10: 6c 9c null null null null null
+10: folded in round 0 to bet: 2547
+10: placing bet in round 0 : 2547 bankroll: 9950
+Cas: Cas: got bet: 2547
+Cas: we have a fold
+Cas: flops: 5h Kc 5c numIn:1
+8: 9d Kd 5h Kc 5c Kd 5c
+8: going all in on: 2547
+8: placing bet in round 2 : 10000 bankroll: 0
+8: 9d Kd 5h Kc 5c Jh 5c
+8: calling on shit cards
+8: placing bet in round 4 : 10000 bankroll: 0
+8: 9d Kd 5h Kc 5c Jh 2s
+8: calling on shit cards
+8: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 8 : 10450$
+0 : -360
+1 : -150
+2 : -250
+3 : 103
+4 : 482
+5 : -50
+6 : -1866
+7 : -3707
+8 : 1228
+9 : 860
+10 : -528
+11 : -82
+12 : 0
+13 : 4977
+14 : -50
+15 : -100
+16 : -100
+17 : -100
+18 : -1764
+19 : 4207
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 5 players:
+Cas: Player: 9
+Cas: Player: 10
+Cas: Player: 18
+Cas: Player: 13
+Cas: Player: 7
+9: 8h Ac Jh 3c Ac 2c Kh
+9: placing bet in round 0 : 1273 bankroll: 8727
+Cas: Cas: got bet: 1273
+10: 2d 5c null null null null null
+10: folded in round 0 to bet: 1273
+10: placing bet in round 0 : 1273 bankroll: 9950
+Cas: Cas: got bet: 1273
+Cas: we have a fold
+18: 2h 5s 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 1273
+18: placing bet in round 0 : 1273 bankroll: 9950
+Cas: Cas: got bet: 1273
+Cas: we have a fold
+13: Js 9s Kh 4d 8h 3s 5c
+13: placing bet in round 0 : 2122 bankroll: 7878
+Cas: Cas: got bet: 2122
+7: Kc 4c null null null null null
+7: folded in round 0 to bet: 2122
+7: placing bet in round 0 : 2122 bankroll: 9950
+Cas: Cas: got bet: 2122
+Cas: we have a fold
+9: 8h Ac Jh 3c Ac 2c Kh
+9: going all in on: 2122
+9: placing bet in round 1 : 10000 bankroll: 0
+Cas: flops: Ks Qh 4h numIn:2
+9: 8h Ac Ks Qh 4h 2c Kh
+********Something wrong, currentBet < amountIn******
+9: placing bet in round 2 : 0 bankroll: 0
+13: Js 9s Ks Qh 4h 3s 5c
+13: placing bet in round 2 : 2678 bankroll: 7322
+9: 8h Ac Ks Qh 4h Jc Kh
+********Something wrong, currentBet < amountIn******
+9: placing bet in round 4 : 0 bankroll: 0
+problems with a turn bet.. less than currentBet!
+13: Js 9s Ks Qh 4h Jc 5c
+13: calling on shit cards
+13: placing bet in round 4 : 2678 bankroll: 7322
+9: 8h Ac Ks Qh 4h Jc Th
+********Something wrong, currentBet < amountIn******
+9: placing bet in round 6 : 0 bankroll: 0
+problems with a river bet.. less than currentBet!
+13: Js 9s Ks Qh 4h Jc Th
+13: placing bet in round 6 : 8200 bankroll: 1800
+Cas: pot goes to showdown winner: 9
+0 : -360
+1 : -150
+2 : -250
+3 : 103
+4 : 482
+5 : -50
+6 : -1866
+7 : -3757
+8 : 1228
+9 : 7660
+10 : -578
+11 : -82
+12 : 0
+13 : -3223
+14 : -50
+15 : -100
+16 : -100
+17 : -100
+18 : -1814
+19 : 4207
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 2 players:
+Cas: Player: 1
+Cas: Player: 10
+1: 7s 8h null null null null null
+1: calling on shit cards
+1: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+10: 2d Jc null null null null null
+10: calling on shit cards
+10: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+Cas: flops: 4h 5d 4s numIn:2
+1: 7s 8h 4h 5d 4s null null
+1: calling on shit cards
+1: placing bet in round 2 : 50 bankroll: 9950
+10: 2d Jc 4h 5d 4s null null
+10: calling on shit cards
+10: placing bet in round 2 : 50 bankroll: 9950
+1: 7s 8h 4h 5d 4s 2h null
+1: calling on shit cards
+1: placing bet in round 4 : 50 bankroll: 9950
+10: 2d Jc 4h 5d 4s 2h null
+10: calling on shit cards
+10: placing bet in round 4 : 50 bankroll: 9950
+1: 7s 8h 4h 5d 4s 2h Kc
+1: calling on shit cards
+1: placing bet in round 6 : 50 bankroll: 9950
+10: 2d Jc 4h 5d 4s 2h Kc
+10: calling on shit cards
+10: placing bet in round 6 : 50 bankroll: 9950
+Cas: pot goes to showdown winner: 10
+0 : -360
+1 : -200
+2 : -250
+3 : 103
+4 : 482
+5 : -50
+6 : -1866
+7 : -3757
+8 : 1228
+9 : 7660
+10 : -428
+11 : -82
+12 : 0
+13 : -3223
+14 : -50
+15 : -100
+16 : -100
+17 : -100
+18 : -1814
+19 : 4207
+Cas: round: 10
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 2 players:
+Cas: Player: 19
+Cas: Player: 14
+19: Td Ts 5d 4s Jh Tc 9s
+19: going all in on: 50
+19: placing bet in round 0 : 10000 bankroll: 0
+Cas: Cas: got bet: 10000
+14: Jc 7d null null null null null
+14: folded in round 0 to bet: 10000
+14: placing bet in round 0 : 10000 bankroll: 9950
+Cas: Cas: got bet: 10000
+Cas: we have a fold
+Cas: flops: 9s Ah 7s numIn:1
+19: Td Ts 9s Ah 7s Tc 9s
+19: calling on shit cards
+19: placing bet in round 2 : 10000 bankroll: 0
+19: Td Ts 9s Ah 7s Qc 9s
+19: calling on shit cards
+19: placing bet in round 4 : 10000 bankroll: 0
+19: Td Ts 9s Ah 7s Qc Jh
+19: calling on shit cards
+19: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 19 : 10150$
+0 : -360
+1 : -200
+2 : -250
+3 : 103
+4 : 482
+5 : -50
+6 : -1866
+7 : -3757
+8 : 1228
+9 : 7660
+10 : -428
+11 : -82
+12 : 0
+13 : -3223
+14 : -100
+15 : -100
+16 : -100
+17 : -100
+18 : -1814
+19 : 4357
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 3 players:
+Cas: Player: 17
+Cas: Player: 8
+Cas: Player: 12
+17: 2d 6c null null null null null
+17: calling on shit cards
+17: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+8: Qs Qh 5h Kc 5c Jh 2s
+8: going all in on: 50
+8: placing bet in round 0 : 10000 bankroll: 0
+Cas: Cas: got bet: 10000
+12: 5d Jh null null null null null
+12: folded in round 0 to bet: 10000
+12: placing bet in round 0 : 10000 bankroll: 9950
+Cas: Cas: got bet: 10000
+Cas: we have a fold
+17: 2d 6c null null null null null
+17: folded in round 1 to bet: 10000
+17: placing bet in round 1 : 10000 bankroll: 9950
+Cas: calls in pocket - we have a fold
+Cas: flops: 2s Ts Ad numIn:1
+8: Qs Qh 2s Ts Ad Jh 2s
+8: calling on shit cards
+8: placing bet in round 2 : 10000 bankroll: 0
+8: Qs Qh 2s Ts Ad 6d 2s
+8: calling on shit cards
+8: placing bet in round 4 : 10000 bankroll: 0
+8: Qs Qh 2s Ts Ad 6d 7s
+8: calling on shit cards
+8: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 8 : 10250$
+0 : -360
+1 : -200
+2 : -250
+3 : 103
+4 : 482
+5 : -50
+6 : -1866
+7 : -3757
+8 : 1478
+9 : 7660
+10 : -428
+11 : -82
+12 : -50
+13 : -3223
+14 : -100
+15 : -100
+16 : -100
+17 : -150
+18 : -1814
+19 : 4357
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 6
+Cas: Player: 12
+Cas: Player: 14
+Cas: Player: 13
+Cas: Player: 2
+Cas: Player: 10
+Cas: Player: 17
+6: 7c Kh null null null null null
+6: calling on shit cards
+6: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+12: Qc Ts null null null null null
+12: placing bet in round 0 : 1478 bankroll: 8522
+Cas: Cas: got bet: 1478
+14: Qd 6h null null null null null
+14: folded in round 0 to bet: 1478
+14: placing bet in round 0 : 1478 bankroll: 9950
+Cas: Cas: got bet: 1478
+Cas: we have a fold
+13: Td Ah Ks Qh 4h Jc Th
+13: folded in round: 0 to bet: 1478
+13: placing bet in round 0 : 1478 bankroll: 9950
+Cas: Cas: got bet: 1478
+Cas: we have a fold
+2: 3d 8d null null null null null
+2: folded in round 0 to bet: 1478
+2: placing bet in round 0 : 1478 bankroll: 9950
+Cas: Cas: got bet: 1478
+Cas: we have a fold
+10: 2d As 4h 5d 4s 2h Kc
+10: folded in round 0 to bet: 1478
+10: placing bet in round 0 : 1478 bankroll: 9950
+Cas: Cas: got bet: 1478
+Cas: we have a fold
+17: Qh Js null null null null null
+17: placing bet in round 0 : 1857 bankroll: 8143
+Cas: Cas: got bet: 1857
+6: 7c Kh null null null null null
+6: folded in round: 1 to bet: 1857
+6: placing bet in round 1 : 1857 bankroll: 9950
+Cas: calls in pocket - we have a fold
+12: Qc Ts null null null null null
+12: folded in round: 1 to bet: 1857
+12: placing bet in round 1 : 1857 bankroll: 8522
+Cas: calls in pocket - we have a fold
+Cas: flops: Ks Kc 9c numIn:1
+17: Qh Js Ks Kc 9c null null
+17: calling on shit cards
+17: placing bet in round 2 : 1857 bankroll: 8143
+17: Qh Js Ks Kc 9c Ac null
+17: calling on shit cards
+17: placing bet in round 4 : 1857 bankroll: 8143
+17: Qh Js Ks Kc 9c Ac 7h
+17: calling on shit cards
+17: placing bet in round 6 : 1857 bankroll: 8143
+Cas: Delivering pot to one remainder: 17 : 3935$
+0 : -360
+1 : -200
+2 : -300
+3 : 103
+4 : 482
+5 : -50
+6 : -1916
+7 : -3757
+8 : 1478
+9 : 7660
+10 : -478
+11 : -82
+12 : -1528
+13 : -3273
+14 : -150
+15 : -100
+16 : -100
+17 : 1928
+18 : -1814
+19 : 4357
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 2 players:
+Cas: Player: 6
+Cas: Player: 7
+6: 3h 6d null null null null null
+6: calling on shit cards
+6: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+7: Qh Qd null null null null null
+7: placing bet in round 0 : 8557 bankroll: 1443
+Cas: Cas: got bet: 8557
+6: 3h 6d null null null null null
+6: folded in round 1 to bet: 8557
+6: placing bet in round 1 : 8557 bankroll: 9950
+Cas: calls in pocket - we have a fold
+Cas: flops: 7s 4h Kh numIn:1
+7: Qh Qd 7s 4h Kh null null
+7: calling on shit cards
+7: placing bet in round 2 : 8557 bankroll: 1443
+7: Qh Qd 7s 4h Kh 4d null
+7: calling on shit cards
+7: placing bet in round 4 : 8557 bankroll: 1443
+7: Qh Qd 7s 4h Kh 4d 5h
+7: calling on shit cards
+7: placing bet in round 6 : 8557 bankroll: 1443
+Cas: Delivering pot to one remainder: 7 : 8707$
+0 : -360
+1 : -200
+2 : -300
+3 : 103
+4 : 482
+5 : -50
+6 : -1966
+7 : -3607
+8 : 1478
+9 : 7660
+10 : -478
+11 : -82
+12 : -1528
+13 : -3273
+14 : -150
+15 : -100
+16 : -100
+17 : 1928
+18 : -1814
+19 : 4357
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 12
+Cas: Player: 19
+Cas: Player: 10
+Cas: Player: 16
+Cas: Player: 17
+Cas: Player: 11
+Cas: Player: 3
+12: Qs Qd null null null null null
+12: placing bet in round 0 : 3525 bankroll: 6475
+Cas: Cas: got bet: 3525
+19: 2h Jc 9s Ah 7s Qc Jh
+19: folded in round 0 to bet: 3525
+19: placing bet in round 0 : 3525 bankroll: 9950
+Cas: Cas: got bet: 3525
+Cas: we have a fold
+10: Td Ad 4h 5d 4s 2h Kc
+10: folded in round: 0 to bet: 3525
+10: placing bet in round 0 : 3525 bankroll: 9950
+Cas: Cas: got bet: 3525
+Cas: we have a fold
+16: 7c 4h null null null null null
+16: folded in round 0 to bet: 3525
+16: placing bet in round 0 : 3525 bankroll: 9950
+Cas: Cas: got bet: 3525
+Cas: we have a fold
+17: Ts 3s Ks Kc 9c Ac 7h
+17: folded in round 0 to bet: 3525
+17: placing bet in round 0 : 3525 bankroll: 9950
+Cas: Cas: got bet: 3525
+Cas: we have a fold
+11: 6s Js 9c 9h 2c 3h Qh
+11: folded in round: 0 to bet: 3525
+11: placing bet in round 0 : 3525 bankroll: 9950
+Cas: Cas: got bet: 3525
+Cas: we have a fold
+3: 9h 4c Qd 7h Ah 2h 8h
+3: folded in round 0 to bet: 3525
+3: placing bet in round 0 : 3525 bankroll: 9950
+Cas: Cas: got bet: 3525
+Cas: we have a fold
+Cas: flops: 4d 9c 2c numIn:1
+12: Qs Qd 4d 9c 2c null null
+12: placing bet in round 2 : 8805 bankroll: 1195
+12: Qs Qd 4d 9c 2c 2s null
+12: calling on shit cards
+12: placing bet in round 4 : 8805 bankroll: 1195
+12: Qs Qd 4d 9c 2c 2s Ac
+12: calling on shit cards
+12: placing bet in round 6 : 8805 bankroll: 1195
+Cas: Delivering pot to one remainder: 12 : 9455$
+0 : -360
+1 : -200
+2 : -300
+3 : 53
+4 : 482
+5 : -50
+6 : -1966
+7 : -3607
+8 : 1478
+9 : 7660
+10 : -528
+11 : -132
+12 : -878
+13 : -3273
+14 : -150
+15 : -100
+16 : -150
+17 : 1878
+18 : -1814
+19 : 4307
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 2 players:
+Cas: Player: 15
+Cas: Player: 19
+15: Ac 6c null null null null null
+15: calling on shit cards
+15: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+19: 8h Kc 9s Ah 7s Qc Jh
+19: placing bet in round 0 : 5571 bankroll: 4429
+Cas: Cas: got bet: 5571
+15: Ac 6c null null null null null
+15: folded in round: 1 to bet: 5571
+15: placing bet in round 1 : 5571 bankroll: 9950
+Cas: calls in pocket - we have a fold
+Cas: flops: 7h 2d Ts numIn:1
+19: 8h Kc 7h 2d Ts Qc Jh
+19: calling on shit cards
+19: placing bet in round 2 : 5571 bankroll: 4429
+19: 8h Kc 7h 2d Ts Kh Jh
+19: going all in on: 5571
+19: placing bet in round 4 : 10000 bankroll: 0
+19: 8h Kc 7h 2d Ts Kh 3s
+19: calling on shit cards
+19: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 19 : 10150$
+0 : -360
+1 : -200
+2 : -300
+3 : 53
+4 : 482
+5 : -50
+6 : -1966
+7 : -3607
+8 : 1478
+9 : 7660
+10 : -528
+11 : -132
+12 : -878
+13 : -3273
+14 : -150
+15 : -150
+16 : -150
+17 : 1878
+18 : -1814
+19 : 4457
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 3
+Cas: Player: 19
+Cas: Player: 0
+Cas: Player: 15
+Cas: Player: 16
+Cas: Player: 10
+Cas: Player: 18
+3: 7c Jc Qd 7h Ah 2h 8h
+3: placing bet in round 0 : 682 bankroll: 9318
+Cas: Cas: got bet: 682
+19: Td Js 7h 2d Ts Kh 3s
+19: folded in round 0 to bet: 682
+19: placing bet in round 0 : 682 bankroll: 9950
+Cas: Cas: got bet: 682
+Cas: we have a fold
+0: 8s 8h null null null null null
+0: folded in round: 0 to bet: 682
+0: placing bet in round 0 : 682 bankroll: 9950
+Cas: Cas: got bet: 682
+Cas: we have a fold
+15: 2s Jh null null null null null
+15: folded in round 0 to bet: 682
+15: placing bet in round 0 : 682 bankroll: 9950
+Cas: Cas: got bet: 682
+Cas: we have a fold
+16: 9h Ts null null null null null
+16: folded in round 0 to bet: 682
+16: placing bet in round 0 : 682 bankroll: 9950
+Cas: Cas: got bet: 682
+Cas: we have a fold
+10: Kc 4h 4h 5d 4s 2h Kc
+10: folded in round 0 to bet: 682
+10: placing bet in round 0 : 682 bankroll: 9950
+Cas: Cas: got bet: 682
+Cas: we have a fold
+18: 3s 4s 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 682
+18: placing bet in round 0 : 682 bankroll: 9950
+Cas: Cas: got bet: 682
+Cas: we have a fold
+Cas: flops: 2d 5s 9c numIn:1
+3: 7c Jc 2d 5s 9c 2h 8h
+3: calling on shit cards
+3: placing bet in round 2 : 682 bankroll: 9318
+3: 7c Jc 2d 5s 9c Kd 8h
+3: calling on shit cards
+3: placing bet in round 4 : 682 bankroll: 9318
+3: 7c Jc 2d 5s 9c Kd Qd
+3: calling on shit cards
+3: placing bet in round 6 : 682 bankroll: 9318
+Cas: Delivering pot to one remainder: 3 : 1332$
+0 : -410
+1 : -200
+2 : -300
+3 : 703
+4 : 482
+5 : -50
+6 : -1966
+7 : -3607
+8 : 1478
+9 : 7660
+10 : -578
+11 : -132
+12 : -878
+13 : -3273
+14 : -150
+15 : -200
+16 : -200
+17 : 1878
+18 : -1864
+19 : 4407
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 3 players:
+Cas: Player: 10
+Cas: Player: 7
+Cas: Player: 17
+10: Qs Jh 4h 5d 4s 2h Kc
+10: placing bet in round 0 : 398 bankroll: 9602
+Cas: Cas: got bet: 398
+7: 4h 5s 7s 4h Kh 4d 5h
+7: folded in round 0 to bet: 398
+7: placing bet in round 0 : 398 bankroll: 9950
+Cas: Cas: got bet: 398
+Cas: we have a fold
+17: Kd 9h Ks Kc 9c Ac 7h
+17: placing bet in round 0 : 796 bankroll: 9204
+Cas: Cas: got bet: 796
+10: Qs Jh 4h 5d 4s 2h Kc
+10: folded in round 1 to bet: 796
+10: placing bet in round 1 : 796 bankroll: 9602
+Cas: calls in pocket - we have a fold
+Cas: flops: 9s 2d Kh numIn:1
+17: Kd 9h 9s 2d Kh Ac 7h
+17: going all in on: 796
+17: placing bet in round 2 : 10000 bankroll: 0
+17: Kd 9h 9s 2d Kh 7s 7h
+17: calling on shit cards
+17: placing bet in round 4 : 10000 bankroll: 0
+17: Kd 9h 9s 2d Kh 7s 8d
+17: calling on shit cards
+17: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 17 : 10598$
+0 : -410
+1 : -200
+2 : -300
+3 : 703
+4 : 482
+5 : -50
+6 : -1966
+7 : -3657
+8 : 1478
+9 : 7660
+10 : -976
+11 : -132
+12 : -878
+13 : -3273
+14 : -150
+15 : -200
+16 : -200
+17 : 2476
+18 : -1864
+19 : 4407
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 5
+Cas: Player: 4
+Cas: Player: 11
+Cas: Player: 9
+Cas: Player: 8
+Cas: Player: 19
+Cas: Player: 18
+5: 4s 9c null null null null null
+5: calling on shit cards
+5: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+4: Ad 2s 9c 9h 2c 3h Qh
+4: placing bet in round 0 : 454 bankroll: 9546
+Cas: Cas: got bet: 454
+11: Td 4h 9c 9h 2c 3h Qh
+11: folded in round 0 to bet: 454
+11: placing bet in round 0 : 454 bankroll: 9950
+Cas: Cas: got bet: 454
+Cas: we have a fold
+9: 8h 7c Ks Qh 4h Jc Th
+9: folded in round 0 to bet: 454
+9: placing bet in round 0 : 454 bankroll: 9950
+Cas: Cas: got bet: 454
+Cas: we have a fold
+8: Ac 6c 2s Ts Ad 6d 7s
+8: placing bet in round 0 : 4935 bankroll: 5065
+Cas: Cas: got bet: 4935
+19: Tc 4d 7h 2d Ts Kh 3s
+19: folded in round 0 to bet: 4935
+19: placing bet in round 0 : 4935 bankroll: 9950
+Cas: Cas: got bet: 4935
+Cas: we have a fold
+18: 6s 8s 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 4935
+18: placing bet in round 0 : 4935 bankroll: 9950
+Cas: Cas: got bet: 4935
+Cas: we have a fold
+5: 4s 9c null null null null null
+5: folded in round 1 to bet: 4935
+5: placing bet in round 1 : 4935 bankroll: 9950
+Cas: calls in pocket - we have a fold
+4: Ad 2s 9c 9h 2c 3h Qh
+4: placing bet in round 1 : 4935 bankroll: 5065
+Cas: flops: 6d Th 5c numIn:2
+4: Ad 2s 6d Th 5c 3h Qh
+4: calling on shit cards
+4: placing bet in round 2 : 4935 bankroll: 5065
+8: Ac 6c 6d Th 5c 6d 7s
+8: calling on shit cards
+8: placing bet in round 2 : 4935 bankroll: 5065
+4: Ad 2s 6d Th 5c Jh Qh
+4: calling on shit cards
+4: placing bet in round 4 : 4935 bankroll: 5065
+8: Ac 6c 6d Th 5c Jh 7s
+8: calling on shit cards
+8: placing bet in round 4 : 4935 bankroll: 5065
+4: Ad 2s 6d Th 5c Jh Qh
+4: calling on shit cards
+4: placing bet in round 6 : 4935 bankroll: 5065
+8: Ac 6c 6d Th 5c Jh Qh
+8: calling on shit cards
+8: placing bet in round 6 : 4935 bankroll: 5065
+Cas: pot goes to showdown winner: 8
+0 : -410
+1 : -200
+2 : -300
+3 : 703
+4 : -4453
+5 : -100
+6 : -1966
+7 : -3657
+8 : 7013
+9 : 7610
+10 : -976
+11 : -182
+12 : -878
+13 : -3273
+14 : -150
+15 : -200
+16 : -200
+17 : 2476
+18 : -1914
+19 : 4357
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 8 players:
+Cas: Player: 7
+Cas: Player: 17
+Cas: Player: 19
+Cas: Player: 0
+Cas: Player: 10
+Cas: Player: 13
+Cas: Player: 18
+Cas: Player: 9
+7: Ts 5h 7s 4h Kh 4d 5h
+7: calling on shit cards
+7: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+17: 7h 4h 9s 2d Kh 7s 8d
+17: placing bet in round 0 : 422 bankroll: 9578
+Cas: Cas: got bet: 422
+19: 9d Js 7h 2d Ts Kh 3s
+19: placing bet in round 0 : 1691 bankroll: 8309
+Cas: Cas: got bet: 1691
+0: 5s 7c null null null null null
+0: folded in round 0 to bet: 1691
+0: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+10: Td 9c 4h 5d 4s 2h Kc
+10: folded in round: 0 to bet: 1691
+10: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+13: Qh Ac Ks Qh 4h Jc Th
+13: folded in round: 0 to bet: 1691
+13: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+18: As 3c 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 1691
+18: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+9: Jc Ad Ks Qh 4h Jc Th
+9: going all in on: 1691
+9: placing bet in round 0 : 10000 bankroll: 0
+Cas: Cas: got bet: 10000
+7: Ts 5h 7s 4h Kh 4d 5h
+7: folded in round 1 to bet: 10000
+7: placing bet in round 1 : 10000 bankroll: 9950
+Cas: calls in pocket - we have a fold
+17: 7h 4h 9s 2d Kh 7s 8d
+17: folded in round 1 to bet: 10000
+17: placing bet in round 1 : 10000 bankroll: 9578
+Cas: calls in pocket - we have a fold
+19: 9d Js 7h 2d Ts Kh 3s
+19: folded in round: 1 to bet: 10000
+19: placing bet in round 1 : 10000 bankroll: 8309
+Cas: calls in pocket - we have a fold
+Cas: flops: 9s Ks 2c numIn:1
+9: Jc Ad 9s Ks 2c Jc Th
+9: calling on shit cards
+9: placing bet in round 2 : 10000 bankroll: 0
+9: Jc Ad 9s Ks 2c 4c Th
+9: calling on shit cards
+9: placing bet in round 4 : 10000 bankroll: 0
+9: Jc Ad 9s Ks 2c 4c Kd
+9: calling on shit cards
+9: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 9 : 12763$
+0 : -460
+1 : -200
+2 : -300
+3 : 703
+4 : -4453
+5 : -100
+6 : -1966
+7 : -3707
+8 : 7013
+9 : 10373
+10 : -1026
+11 : -182
+12 : -878
+13 : -3323
+14 : -150
+15 : -200
+16 : -200
+17 : 2054
+18 : -1964
+19 : 2666
+Cas: round: 0
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 5 players:
+Cas: Player: 0
+Cas: Player: 7
+Cas: Player: 18
+Cas: Player: 13
+Cas: Player: 16
+0: Qc 2d null null null null null
+0: calling on shit cards
+0: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+7: Kd Js 7s 4h Kh 4d 5h
+7: placing bet in round 0 : 1751 bankroll: 8249
+Cas: Cas: got bet: 1751
+18: 6d 6c 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 1751
+18: placing bet in round 0 : 1751 bankroll: 9950
+Cas: Cas: got bet: 1751
+Cas: we have a fold
+13: Th 8h Ks Qh 4h Jc Th
+13: folded in round: 0 to bet: 1751
+13: placing bet in round 0 : 1751 bankroll: 9950
+Cas: Cas: got bet: 1751
+Cas: we have a fold
+16: 9s 7c null null null null null
+16: folded in round 0 to bet: 1751
+16: placing bet in round 0 : 1751 bankroll: 9950
+Cas: Cas: got bet: 1751
+Cas: we have a fold
+0: Qc 2d null null null null null
+0: folded in round 1 to bet: 1751
+0: placing bet in round 1 : 1751 bankroll: 9950
+Cas: calls in pocket - we have a fold
+Cas: flops: Ac 8s 7d numIn:1
+7: Kd Js Ac 8s 7d 4d 5h
+7: calling on shit cards
+7: placing bet in round 2 : 1751 bankroll: 8249
+7: Kd Js Ac 8s 7d Jc 5h
+7: placing bet in round 4 : 5279 bankroll: 4721
+7: Kd Js Ac 8s 7d Jc Kc
+7: placing bet in round 6 : 6987 bankroll: 3013
+Cas: Delivering pot to one remainder: 7 : 7437$
+4 : -4453
+7 : -3257
+13 : -3373
+6 : -1966
+18 : -2014
+10 : -1026
+12 : -878
+0 : -510
+2 : -300
+1 : -200
+15 : -200
+16 : -250
+11 : -182
+14 : -150
+5 : -100
+3 : 703
+17 : 2054
+19 : 2666
+8 : 7013
+9 : 10373
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 8 players:
+Cas: Player: 19
+Cas: Player: 0
+Cas: Player: 2
+Cas: Player: 11
+Cas: Player: 5
+Cas: Player: 7
+Cas: Player: 16
+Cas: Player: 13
+19: 3c 8c 7h 2d Ts Kh 3s
+19: calling on shit cards
+19: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+0: Kd 4d null null null null null
+0: placing bet in round 0 : 161 bankroll: 9839
+Cas: Cas: got bet: 161
+2: Ts 8d null null null null null
+2: folded in round 0 to bet: 161
+2: placing bet in round 0 : 161 bankroll: 9950
+Cas: Cas: got bet: 161
+Cas: we have a fold
+11: As Qc 9c 9h 2c 3h Qh
+11: placing bet in round 0 : 511 bankroll: 9489
+Cas: Cas: got bet: 511
+5: 8s Ac null null null null null
+5: folded in round: 0 to bet: 511
+5: placing bet in round 0 : 511 bankroll: 9950
+Cas: Cas: got bet: 511
+Cas: we have a fold
+7: Qh 9c Ac 8s 7d Jc Kc
+7: placing bet in round 0 : 862 bankroll: 9138
+Cas: Cas: got bet: 862
+16: 8h 4c null null null null null
+16: folded in round 0 to bet: 862
+16: placing bet in round 0 : 862 bankroll: 9950
+Cas: Cas: got bet: 862
+Cas: we have a fold
+13: Jc 4h Ks Qh 4h Jc Th
+13: folded in round 0 to bet: 862
+13: placing bet in round 0 : 862 bankroll: 9950
+Cas: Cas: got bet: 862
+Cas: we have a fold
+19: 3c 8c 7h 2d Ts Kh 3s
+19: placing bet in round 1 : 862 bankroll: 9138
+0: Kd 4d null null null null null
+0: folded in round 1 to bet: 862
+0: placing bet in round 1 : 862 bankroll: 9839
+Cas: calls in pocket - we have a fold
+11: As Qc 9c 9h 2c 3h Qh
+11: placing bet in round 1 : 862 bankroll: 9138
+Cas: flops: 5h 6c Kc numIn:3
+19: 3c 8c 5h 6c Kc Kh 3s
+19: going all in on: 862
+19: placing bet in round 2 : 10000 bankroll: 0
+11: As Qc 5h 6c Kc 3h Qh
+11: folded in round 2 to bet: 10000
+11: placing bet in round 2 : 10000 bankroll: 9138
+7: Qh 9c 5h 6c Kc Jc Kc
+7: folded in round 2 to bet: 10000
+7: placing bet in round 2 : 10000 bankroll: 9138
+19: 3c 8c 5h 6c Kc 4s 3s
+19: calling on shit cards
+19: placing bet in round 4 : 10000 bankroll: 0
+19: 3c 8c 5h 6c Kc 4s 3d
+19: calling on shit cards
+19: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 19 : 12485$
+4 : -4453
+7 : -4119
+13 : -3423
+6 : -1966
+18 : -2014
+10 : -1026
+12 : -878
+0 : -671
+2 : -350
+1 : -200
+15 : -200
+16 : -300
+11 : -1044
+14 : -150
+5 : -150
+3 : 703
+17 : 2054
+19 : 5151
+8 : 7013
+9 : 10373
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 5 players:
+Cas: Player: 19
+Cas: Player: 15
+Cas: Player: 6
+Cas: Player: 11
+Cas: Player: 1
+19: 9h Ah 5h 6c Kc 4s 3d
+19: placing bet in round 0 : 4139 bankroll: 5861
+Cas: Cas: got bet: 4139
+15: 5d 2h null null null null null
+15: folded in round 0 to bet: 4139
+15: placing bet in round 0 : 4139 bankroll: 9950
+Cas: Cas: got bet: 4139
+Cas: we have a fold
+6: 2d 4c null null null null null
+6: folded in round 0 to bet: 4139
+6: placing bet in round 0 : 4139 bankroll: 9950
+Cas: Cas: got bet: 4139
+Cas: we have a fold
+11: 6h 8d 5h 6c Kc 3h Qh
+11: folded in round 0 to bet: 4139
+11: placing bet in round 0 : 4139 bankroll: 9950
+Cas: Cas: got bet: 4139
+Cas: we have a fold
+1: Kd 3c 4h 5d 4s 2h Kc
+1: folded in round 0 to bet: 4139
+1: placing bet in round 0 : 4139 bankroll: 9950
+Cas: Cas: got bet: 4139
+Cas: we have a fold
+Cas: flops: 9d Kc 4s numIn:1
+19: 9h Ah 9d Kc 4s 4s 3d
+19: going all in on: 4139
+19: placing bet in round 2 : 10000 bankroll: 0
+19: 9h Ah 9d Kc 4s 5c 3d
+19: calling on shit cards
+19: placing bet in round 4 : 10000 bankroll: 0
+19: 9h Ah 9d Kc 4s 5c 4h
+19: calling on shit cards
+19: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 19 : 10450$
+4 : -4453
+7 : -4119
+13 : -3423
+6 : -2016
+18 : -2014
+10 : -1026
+12 : -878
+0 : -671
+2 : -350
+1 : -250
+15 : -250
+16 : -300
+11 : -1094
+14 : -150
+5 : -150
+3 : 703
+17 : 2054
+19 : 5601
+8 : 7013
+9 : 10373
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 5 players:
+Cas: Player: 2
+Cas: Player: 9
+Cas: Player: 14
+Cas: Player: 12
+Cas: Player: 13
+2: 8h Ad null null null null null
+2: placing bet in round 0 : 557 bankroll: 9443
+Cas: Cas: got bet: 557
+9: 7s Kd 9s Ks 2c 4c Kd
+9: folded in round 0 to bet: 557
+9: placing bet in round 0 : 557 bankroll: 9950
+Cas: Cas: got bet: 557
+Cas: we have a fold
+14: Qs 9d null null null null null
+14: placing bet in round 0 : 994 bankroll: 9006
+Cas: Cas: got bet: 994
+12: 3c 3d 4d 9c 2c 2s Ac
+12: folded in round 0 to bet: 994
+12: placing bet in round 0 : 994 bankroll: 9950
+Cas: Cas: got bet: 994
+Cas: we have a fold
+13: Qc Ts Ks Qh 4h Jc Th
+13: folded in round 0 to bet: 994
+13: placing bet in round 0 : 994 bankroll: 9950
+Cas: Cas: got bet: 994
+Cas: we have a fold
+2: 8h Ad null null null null null
+2: placing bet in round 1 : 994 bankroll: 9006
+Cas: flops: Ac 2s 9h numIn:2
+2: 8h Ad Ac 2s 9h null null
+2: placing bet in round 2 : 9906 bankroll: 94
+14: Qs 9d Ac 2s 9h null null
+14: going all in on: 9906
+14: placing bet in round 2 : 10000 bankroll: 0
+2: 8h Ad Ac 2s 9h null null
+2: folded in round: 3 to bet: 10000
+2: placing bet in round 3 : 10000 bankroll: 94
+14: Qs 9d Ac 2s 9h 4s null
+14: calling on shit cards
+14: placing bet in round 4 : 10000 bankroll: 0
+14: Qs 9d Ac 2s 9h 4s 8d
+14: calling on shit cards
+14: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 14 : 20306$
+4 : -4453
+7 : -4119
+13 : -3473
+6 : -2016
+18 : -2014
+10 : -1026
+12 : -928
+0 : -671
+2 : -10256
+1 : -250
+15 : -250
+16 : -300
+11 : -1094
+14 : 10156
+5 : -150
+3 : 703
+17 : 2054
+19 : 5601
+8 : 7013
+9 : 10323
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 2
+Cas: Player: 10
+Cas: Player: 13
+Cas: Player: 17
+Cas: Player: 14
+Cas: Player: 7
+Cas: Player: 19
+2: As Kd Ac 2s 9h null null
+2: placing bet in round 0 : 1705 bankroll: 8295
+Cas: Cas: got bet: 1705
+10: 2s 7h 4h 5d 4s 2h Kc
+10: folded in round 0 to bet: 1705
+10: placing bet in round 0 : 1705 bankroll: 9950
+Cas: Cas: got bet: 1705
+Cas: we have a fold
+13: Td 6c Ks Qh 4h Jc Th
+13: folded in round 0 to bet: 1705
+13: placing bet in round 0 : 1705 bankroll: 9950
+Cas: Cas: got bet: 1705
+Cas: we have a fold
+17: 3h 5s 9s 2d Kh 7s 8d
+17: folded in round 0 to bet: 1705
+17: placing bet in round 0 : 1705 bankroll: 9950
+Cas: Cas: got bet: 1705
+Cas: we have a fold
+14: Ah 8s Ac 2s 9h 4s 8d
+14: folded in round 0 to bet: 1705
+14: placing bet in round 0 : 1705 bankroll: 9950
+Cas: Cas: got bet: 1705
+Cas: we have a fold
+7: Jd Tc 5h 6c Kc Jc Kc
+7: placing bet in round 0 : 2122 bankroll: 7878
+Cas: Cas: got bet: 2122
+19: Qd 3c 9d Kc 4s 5c 4h
+19: folded in round 0 to bet: 2122
+19: placing bet in round 0 : 2122 bankroll: 9950
+Cas: Cas: got bet: 2122
+Cas: we have a fold
+2: As Kd Ac 2s 9h null null
+2: placing bet in round 1 : 2122 bankroll: 7878
+Cas: flops: Qh 2d Kh numIn:2
+2: As Kd Qh 2d Kh null null
+2: placing bet in round 2 : 8429 bankroll: 1571
+7: Jd Tc Qh 2d Kh Jc Kc
+7: folded in round: 2 to bet: 8429
+7: placing bet in round 2 : 8429 bankroll: 7878
+2: As Kd Qh 2d Kh 9c null
+2: calling on shit cards
+2: placing bet in round 4 : 8429 bankroll: 1571
+2: As Kd Qh 2d Kh 9c 9d
+2: calling on shit cards
+2: placing bet in round 6 : 8429 bankroll: 1571
+Cas: Delivering pot to one remainder: 2 : 11151$
+4 : -4453
+7 : -6241
+13 : -3523
+6 : -2016
+18 : -2014
+10 : -1076
+12 : -928
+0 : -671
+2 : -7534
+1 : -250
+15 : -250
+16 : -300
+11 : -1094
+14 : 10106
+5 : -150
+3 : 703
+17 : 2004
+19 : 5551
+8 : 7013
+9 : 10323
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 6 players:
+Cas: Player: 16
+Cas: Player: 7
+Cas: Player: 14
+Cas: Player: 9
+Cas: Player: 2
+Cas: Player: 0
+16: 5c Tc null null null null null
+16: calling on shit cards
+16: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+7: Kd Ad Qh 2d Kh Jc Kc
+7: placing bet in round 0 : 1326 bankroll: 8674
+Cas: Cas: got bet: 1326
+14: 8d Qh Ac 2s 9h 4s 8d
+14: folded in round: 0 to bet: 1326
+14: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+9: Jh 2c 9s Ks 2c 4c Kd
+9: folded in round 0 to bet: 1326
+9: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+2: As Ac Qh 2d Kh 9c 9d
+2: placing bet in round 0 : 6218 bankroll: 3782
+Cas: Cas: got bet: 6218
+0: 4s Kc null null null null null
+0: folded in round: 0 to bet: 6218
+0: placing bet in round 0 : 6218 bankroll: 9950
+Cas: Cas: got bet: 6218
+Cas: we have a fold
+16: 5c Tc null null null null null
+16: folded in round 1 to bet: 6218
+16: placing bet in round 1 : 6218 bankroll: 9950
+Cas: calls in pocket - we have a fold
+7: Kd Ad Qh 2d Kh Jc Kc
+7: folded in round: 1 to bet: 6218
+7: placing bet in round 1 : 6218 bankroll: 8674
+Cas: calls in pocket - we have a fold
+Cas: flops: 2d Th Qs numIn:1
+2: As Ac 2d Th Qs 9c 9d
+2: calling on shit cards
+2: placing bet in round 2 : 6218 bankroll: 3782
+2: As Ac 2d Th Qs 3h 9d
+2: placing bet in round 4 : 6353 bankroll: 3647
+2: As Ac 2d Th Qs 3h Jd
+2: calling on shit cards
+2: placing bet in round 6 : 6353 bankroll: 3647
+Cas: Delivering pot to one remainder: 2 : 8179$
+4 : -4453
+7 : -7567
+13 : -3523
+6 : -2016
+18 : -2014
+10 : -1076
+12 : -928
+0 : -721
+2 : -5708
+1 : -250
+15 : -250
+16 : -350
+11 : -1094
+14 : 10056
+5 : -150
+3 : 703
+17 : 2004
+19 : 5551
+8 : 7013
+9 : 10273
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 5 players:
+Cas: Player: 4
+Cas: Player: 15
+Cas: Player: 0
+Cas: Player: 7
+Cas: Player: 9
+4: Kd 8s 6d Th 5c Jh Qh
+4: placing bet in round 0 : 318 bankroll: 9682
+Cas: Cas: got bet: 318
+15: Ac Td null null null null null
+15: folded in round 0 to bet: 318
+15: placing bet in round 0 : 318 bankroll: 9950
+Cas: Cas: got bet: 318
+Cas: we have a fold
+0: 6h 2h null null null null null
+0: folded in round 0 to bet: 318
+0: placing bet in round 0 : 318 bankroll: 9950
+Cas: Cas: got bet: 318
+Cas: we have a fold
+7: 8c Ks Qh 2d Kh Jc Kc
+7: folded in round 0 to bet: 318
+7: placing bet in round 0 : 318 bankroll: 9950
+Cas: Cas: got bet: 318
+Cas: we have a fold
+9: 3s 7h 9s Ks 2c 4c Kd
+9: folded in round 0 to bet: 318
+9: placing bet in round 0 : 318 bankroll: 9950
+Cas: Cas: got bet: 318
+Cas: we have a fold
+Cas: flops: 8d As 4h numIn:1
+4: Kd 8s 8d As 4h Jh Qh
+4: going all in on: 318
+4: placing bet in round 2 : 10000 bankroll: 0
+4: Kd 8s 8d As 4h 3h Qh
+4: calling on shit cards
+4: placing bet in round 4 : 10000 bankroll: 0
+4: Kd 8s 8d As 4h 3h Js
+4: calling on shit cards
+4: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 4 : 10450$
+4 : -4003
+7 : -7617
+13 : -3523
+6 : -2016
+18 : -2014
+10 : -1076
+12 : -928
+0 : -771
+2 : -5708
+1 : -250
+15 : -300
+16 : -350
+11 : -1094
+14 : 10056
+5 : -150
+3 : 703
+17 : 2004
+19 : 5551
+8 : 7013
+9 : 10223
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 6 players:
+Cas: Player: 0
+Cas: Player: 13
+Cas: Player: 2
+Cas: Player: 14
+Cas: Player: 9
+Cas: Player: 5
+0: 9h 9s null null null null null
+0: placing bet in round 0 : 563 bankroll: 9437
+Cas: Cas: got bet: 563
+13: Jh 4c Ks Qh 4h Jc Th
+13: folded in round 0 to bet: 563
+13: placing bet in round 0 : 563 bankroll: 9950
+Cas: Cas: got bet: 563
+Cas: we have a fold
+2: 3c 2s 2d Th Qs 3h Jd
+2: folded in round 0 to bet: 563
+2: placing bet in round 0 : 563 bankroll: 9950
+Cas: Cas: got bet: 563
+Cas: we have a fold
+14: 5d 8c Ac 2s 9h 4s 8d
+14: folded in round 0 to bet: 563
+14: placing bet in round 0 : 563 bankroll: 9950
+Cas: Cas: got bet: 563
+Cas: we have a fold
+9: As 8h 9s Ks 2c 4c Kd
+9: folded in round 0 to bet: 563
+9: placing bet in round 0 : 563 bankroll: 9950
+Cas: Cas: got bet: 563
+Cas: we have a fold
+5: 5s 3h null null null null null
+5: folded in round 0 to bet: 563
+5: placing bet in round 0 : 563 bankroll: 9950
+Cas: Cas: got bet: 563
+Cas: we have a fold
+Cas: flops: Th Jd 4s numIn:1
+0: 9h 9s Th Jd 4s null null
+0: placing bet in round 2 : 2170 bankroll: 7830
+0: 9h 9s Th Jd 4s Js null
+0: calling on shit cards
+0: placing bet in round 4 : 2170 bankroll: 7830
+0: 9h 9s Th Jd 4s Js Ks
+0: calling on shit cards
+0: placing bet in round 6 : 2170 bankroll: 7830
+Cas: Delivering pot to one remainder: 0 : 2720$
+4 : -4003
+7 : -7617
+13 : -3573
+6 : -2016
+18 : -2014
+10 : -1076
+12 : -928
+0 : -221
+2 : -5758
+1 : -250
+15 : -300
+16 : -350
+11 : -1094
+14 : 10006
+5 : -200
+3 : 703
+17 : 2004
+19 : 5551
+8 : 7013
+9 : 10173
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 9 players:
+Cas: Player: 14
+Cas: Player: 9
+Cas: Player: 11
+Cas: Player: 12
+Cas: Player: 15
+Cas: Player: 16
+Cas: Player: 8
+Cas: Player: 0
+Cas: Player: 2
+14: Qc 6d Ac 2s 9h 4s 8d
+14: calling on shit cards
+14: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+9: 3c 2c 9s Ks 2c 4c Kd
+9: calling on shit cards
+9: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+11: 3s 5s 5h 6c Kc 3h Qh
+11: calling on shit cards
+11: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+12: Ad Js 4d 9c 2c 2s Ac
+12: calling on shit cards
+12: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+15: As 3d null null null null null
+15: calling on shit cards
+15: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+16: Tc 4c null null null null null
+16: calling on shit cards
+16: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+8: Td 6s 6d Th 5c Jh Qh
+8: calling on shit cards
+8: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+0: 4d 4h Th Jd 4s Js Ks
+0: placing bet in round 0 : 165 bankroll: 9835
+Cas: Cas: got bet: 165
+2: 8c 5d 2d Th Qs 3h Jd
+2: folded in round 0 to bet: 165
+2: placing bet in round 0 : 165 bankroll: 9950
+Cas: Cas: got bet: 165
+Cas: we have a fold
+14: Qc 6d Ac 2s 9h 4s 8d
+14: folded in round 1 to bet: 165
+14: placing bet in round 1 : 165 bankroll: 9950
+Cas: calls in pocket - we have a fold
+9: 3c 2c 9s Ks 2c 4c Kd
+9: folded in round 1 to bet: 165
+9: placing bet in round 1 : 165 bankroll: 9950
+Cas: calls in pocket - we have a fold
+11: 3s 5s 5h 6c Kc 3h Qh
+11: folded in round 1 to bet: 165
+11: placing bet in round 1 : 165 bankroll: 9950
+Cas: calls in pocket - we have a fold
+12: Ad Js 4d 9c 2c 2s Ac
+12: placing bet in round 1 : 165 bankroll: 9835
+15: As 3d null null null null null
+15: placing bet in round 1 : 165 bankroll: 9835
+16: Tc 4c null null null null null
+16: folded in round 1 to bet: 165
+16: placing bet in round 1 : 165 bankroll: 9950
+Cas: calls in pocket - we have a fold
+8: Td 6s 6d Th 5c Jh Qh
+8: placing bet in round 1 : 165 bankroll: 9835
+Cas: flops: 9s 2h Jd numIn:4
+12: Ad Js 9s 2h Jd 2s Ac
+12: placing bet in round 2 : 7867 bankroll: 2133
+15: As 3d 9s 2h Jd null null
+15: folded in round 2 to bet: 7867
+15: placing bet in round 2 : 7867 bankroll: 9835
+8: Td 6s 9s 2h Jd Jh Qh
+8: folded in round 2 to bet: 7867
+8: placing bet in round 2 : 7867 bankroll: 9835
+0: 4d 4h 9s 2h Jd Js Ks
+0: folded in round 2 to bet: 7867
+0: placing bet in round 2 : 7867 bankroll: 9835
+12: Ad Js 9s 2h Jd 6c Ac
+12: calling on shit cards
+12: placing bet in round 4 : 7867 bankroll: 2133
+12: Ad Js 9s 2h Jd 6c 7s
+12: calling on shit cards
+12: placing bet in round 6 : 7867 bankroll: 2133
+Cas: Delivering pot to one remainder: 12 : 9062$
+4 : -4003
+7 : -7617
+13 : -3573
+6 : -2016
+18 : -2014
+10 : -1076
+12 : 267
+0 : -386
+2 : -5808
+1 : -250
+15 : -465
+16 : -400
+11 : -1144
+14 : 9956
+5 : -200
+3 : 703
+17 : 2004
+19 : 5551
+8 : 6848
+9 : 10123
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 3 players:
+Cas: Player: 3
+Cas: Player: 1
+Cas: Player: 0
+3: 8c Ac 2d 5s 9c Kd Qd
+3: placing bet in round 0 : 2122 bankroll: 7878
+Cas: Cas: got bet: 2122
+1: 7c 9s 4h 5d 4s 2h Kc
+1: folded in round 0 to bet: 2122
+1: placing bet in round 0 : 2122 bankroll: 9950
+Cas: Cas: got bet: 2122
+Cas: we have a fold
+0: Qs Qh 9s 2h Jd Js Ks
+0: placing bet in round 0 : 2587 bankroll: 7413
+Cas: Cas: got bet: 2587
+3: 8c Ac 2d 5s 9c Kd Qd
+3: folded in round: 1 to bet: 2587
+3: placing bet in round 1 : 2587 bankroll: 7878
+Cas: calls in pocket - we have a fold
+Cas: flops: 2h 6d 7h numIn:1
+0: Qs Qh 2h 6d 7h Js Ks
+0: placing bet in round 2 : 2594 bankroll: 7406
+0: Qs Qh 2h 6d 7h Th Ks
+0: placing bet in round 4 : 2666 bankroll: 7334
+0: Qs Qh 2h 6d 7h Th 2c
+0: calling on shit cards
+0: placing bet in round 6 : 2666 bankroll: 7334
+Cas: Delivering pot to one remainder: 0 : 4988$
+4 : -4003
+7 : -7617
+13 : -3573
+6 : -2016
+18 : -2014
+10 : -1076
+12 : 267
+0 : 1936
+2 : -5808
+1 : -300
+15 : -465
+16 : -400
+11 : -1144
+14 : 9956
+5 : -200
+3 : -1419
+17 : 2004
+19 : 5551
+8 : 6848
+9 : 10123
+Cas: round: 10
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 3 players:
+Cas: Player: 7
+Cas: Player: 0
+Cas: Player: 1
+7: 7s 3d Qh 2d Kh Jc Kc
+7: calling on shit cards
+7: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+0: Th Ks 2h 6d 7h Th 2c
+0: placing bet in round 0 : 597 bankroll: 9403
+Cas: Cas: got bet: 597
+1: 5s Kh 4h 5d 4s 2h Kc
+1: folded in round 0 to bet: 597
+1: placing bet in round 0 : 597 bankroll: 9950
+Cas: Cas: got bet: 597
+Cas: we have a fold
+7: 7s 3d Qh 2d Kh Jc Kc
+7: folded in round 1 to bet: 597
+7: placing bet in round 1 : 597 bankroll: 9950
+Cas: calls in pocket - we have a fold
+Cas: flops: Tc 8s 4s numIn:1
+0: Th Ks Tc 8s 4s Th 2c
+0: placing bet in round 2 : 2820 bankroll: 7180
+0: Th Ks Tc 8s 4s Ts 2c
+0: placing bet in round 4 : 3159 bankroll: 6841
+0: Th Ks Tc 8s 4s Ts Jc
+0: calling on shit cards
+0: placing bet in round 6 : 3159 bankroll: 6841
+Cas: Delivering pot to one remainder: 0 : 3409$
+4 : -4003
+7 : -7667
+13 : -3573
+6 : -2016
+18 : -2014
+10 : -1076
+12 : 267
+0 : 2186
+2 : -5808
+1 : -350
+15 : -465
+16 : -400
+11 : -1144
+14 : 9956
+5 : -200
+3 : -1419
+17 : 2004
+19 : 5551
+8 : 6848
+9 : 10123
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 3 players:
+Cas: Player: 5
+Cas: Player: 0
+Cas: Player: 17
+5: 5d Kc null null null null null
+5: calling on shit cards
+5: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+0: 5c Ts Tc 8s 4s Ts Jc
+0: calling on shit cards
+0: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+17: Ks Jh 9s 2d Kh 7s 8d
+17: placing bet in round 0 : 2122 bankroll: 7878
+Cas: Cas: got bet: 2122
+5: 5d Kc null null null null null
+5: folded in round: 1 to bet: 2122
+5: placing bet in round 1 : 2122 bankroll: 9950
+Cas: calls in pocket - we have a fold
+0: 5c Ts Tc 8s 4s Ts Jc
+0: folded in round 1 to bet: 2122
+0: placing bet in round 1 : 2122 bankroll: 9950
+Cas: calls in pocket - we have a fold
+Cas: flops: 8c 7h 8h numIn:1
+17: Ks Jh 8c 7h 8h 7s 8d
+17: calling on shit cards
+17: placing bet in round 2 : 2122 bankroll: 7878
+17: Ks Jh 8c 7h 8h 4c 8d
+17: calling on shit cards
+17: placing bet in round 4 : 2122 bankroll: 7878
+17: Ks Jh 8c 7h 8h 4c 3c
+17: calling on shit cards
+17: placing bet in round 6 : 2122 bankroll: 7878
+Cas: Delivering pot to one remainder: 17 : 2372$
+4 : -4003
+7 : -7667
+13 : -3573
+6 : -2016
+18 : -2014
+10 : -1076
+12 : 267
+0 : 2136
+2 : -5808
+1 : -350
+15 : -465
+16 : -400
+11 : -1144
+14 : 9956
+5 : -250
+3 : -1419
+17 : 2254
+19 : 5551
+8 : 6848
+9 : 10123
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 6 players:
+Cas: Player: 14
+Cas: Player: 8
+Cas: Player: 13
+Cas: Player: 9
+Cas: Player: 1
+Cas: Player: 10
+14: Td 7d Ac 2s 9h 4s 8d
+14: placing bet in round 0 : 4377 bankroll: 5623
+Cas: Cas: got bet: 4377
+8: 4c 6d 9s 2h Jd Jh Qh
+8: folded in round 0 to bet: 4377
+8: placing bet in round 0 : 4377 bankroll: 9950
+Cas: Cas: got bet: 4377
+Cas: we have a fold
+13: Qh 2d Ks Qh 4h Jc Th
+13: folded in round 0 to bet: 4377
+13: placing bet in round 0 : 4377 bankroll: 9950
+Cas: Cas: got bet: 4377
+Cas: we have a fold
+9: 8h Ts 9s Ks 2c 4c Kd
+9: folded in round 0 to bet: 4377
+9: placing bet in round 0 : 4377 bankroll: 9950
+Cas: Cas: got bet: 4377
+Cas: we have a fold
+1: 3c Kh 4h 5d 4s 2h Kc
+1: folded in round 0 to bet: 4377
+1: placing bet in round 0 : 4377 bankroll: 9950
+Cas: Cas: got bet: 4377
+Cas: we have a fold
+10: Qc Qd 4h 5d 4s 2h Kc
+10: folded in round: 0 to bet: 4377
+10: placing bet in round 0 : 4377 bankroll: 9950
+Cas: Cas: got bet: 4377
+Cas: we have a fold
+Cas: flops: Jh Ah 5h numIn:1
+14: Td 7d Jh Ah 5h 4s 8d
+14: calling on shit cards
+14: placing bet in round 2 : 4377 bankroll: 5623
+14: Td 7d Jh Ah 5h Ac 8d
+14: calling on shit cards
+14: placing bet in round 4 : 4377 bankroll: 5623
+14: Td 7d Jh Ah 5h Ac 2c
+14: calling on shit cards
+14: placing bet in round 6 : 4377 bankroll: 5623
+Cas: Delivering pot to one remainder: 14 : 4927$
+4 : -4003
+7 : -7667
+13 : -3623
+6 : -2016
+18 : -2014
+10 : -1126
+12 : 267
+0 : 2136
+2 : -5808
+1 : -400
+15 : -465
+16 : -400
+11 : -1144
+14 : 10506
+5 : -250
+3 : -1419
+17 : 2254
+19 : 5551
+8 : 6798
+9 : 10073
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 8 players:
+Cas: Player: 1
+Cas: Player: 7
+Cas: Player: 11
+Cas: Player: 4
+Cas: Player: 15
+Cas: Player: 13
+Cas: Player: 0
+Cas: Player: 2
+1: 3s Qc 4h 5d 4s 2h Kc
+1: calling on shit cards
+1: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+7: 6c 8d Qh 2d Kh Jc Kc
+7: calling on shit cards
+7: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+11: 6d Ah 5h 6c Kc 3h Qh
+11: calling on shit cards
+11: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+4: 3c 3h 8d As 4h 3h Js
+4: placing bet in round 0 : 1691 bankroll: 8309
+Cas: Cas: got bet: 1691
+15: As 9h 9s 2h Jd null null
+15: folded in round 0 to bet: 1691
+15: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+13: Qh 4c Ks Qh 4h Jc Th
+13: folded in round 0 to bet: 1691
+13: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+0: Ks Ad Tc 8s 4s Ts Jc
+0: folded in round: 0 to bet: 1691
+0: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+2: Qs 8h 2d Th Qs 3h Jd
+2: folded in round: 0 to bet: 1691
+2: placing bet in round 0 : 1691 bankroll: 9950
+Cas: Cas: got bet: 1691
+Cas: we have a fold
+1: 3s Qc 4h 5d 4s 2h Kc
+1: folded in round 1 to bet: 1691
+1: placing bet in round 1 : 1691 bankroll: 9950
+Cas: calls in pocket - we have a fold
+7: 6c 8d Qh 2d Kh Jc Kc
+7: folded in round 1 to bet: 1691
+7: placing bet in round 1 : 1691 bankroll: 9950
+Cas: calls in pocket - we have a fold
+11: 6d Ah 5h 6c Kc 3h Qh
+11: placing bet in round 1 : 1691 bankroll: 8309
+Cas: flops: Jh 3d 2c numIn:2
+11: 6d Ah Jh 3d 2c 3h Qh
+11: calling on shit cards
+11: placing bet in round 2 : 1691 bankroll: 8309
+4: 3c 3h Jh 3d 2c 3h Js
+4: going all in on: 1691
+4: placing bet in round 2 : 10000 bankroll: 0
+11: 6d Ah Jh 3d 2c 3h Qh
+11: folded in round 3 to bet: 10000
+11: placing bet in round 3 : 10000 bankroll: 8309
+4: 3c 3h Jh 3d 2c 2s Js
+4: calling on shit cards
+4: placing bet in round 4 : 10000 bankroll: 0
+4: 3c 3h Jh 3d 2c 2s 2d
+4: calling on shit cards
+4: placing bet in round 6 : 10000 bankroll: 0
+Cas: Delivering pot to one remainder: 4 : 12391$
+4 : -1612
+7 : -7717
+13 : -3673
+6 : -2016
+18 : -2014
+10 : -1126
+12 : 267
+0 : 2086
+2 : -5858
+1 : -450
+15 : -515
+16 : -400
+11 : -2835
+14 : 10506
+5 : -250
+3 : -1419
+17 : 2254
+19 : 5551
+8 : 6798
+9 : 10073
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 18
+Cas: Player: 7
+Cas: Player: 4
+Cas: Player: 17
+Cas: Player: 12
+Cas: Player: 15
+Cas: Player: 3
+18: 8h Js 4s Ts Kh 6c 7d
+18: calling on shit cards
+18: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+7: 3c 9c Qh 2d Kh Jc Kc
+7: placing bet in round 0 : 113 bankroll: 9887
+Cas: Cas: got bet: 113
+4: Qs Ts Jh 3d 2c 2s 2d
+4: placing bet in round 0 : 6822 bankroll: 3178
+Cas: Cas: got bet: 6822
+17: 5d 5h 8c 7h 8h 4c 3c
+17: folded in round: 0 to bet: 6822
+17: placing bet in round 0 : 6822 bankroll: 9950
+Cas: Cas: got bet: 6822
+Cas: we have a fold
+12: 2c Kc 9s 2h Jd 6c 7s
+12: folded in round: 0 to bet: 6822
+12: placing bet in round 0 : 6822 bankroll: 9950
+Cas: Cas: got bet: 6822
+Cas: we have a fold
+15: Tc Jh 9s 2h Jd null null
+15: folded in round 0 to bet: 6822
+15: placing bet in round 0 : 6822 bankroll: 9950
+Cas: Cas: got bet: 6822
+Cas: we have a fold
+3: Ad Th 2d 5s 9c Kd Qd
+3: folded in round: 0 to bet: 6822
+3: placing bet in round 0 : 6822 bankroll: 9950
+Cas: Cas: got bet: 6822
+Cas: we have a fold
+18: 8h Js 4s Ts Kh 6c 7d
+18: folded in round 1 to bet: 6822
+18: placing bet in round 1 : 6822 bankroll: 9950
+Cas: calls in pocket - we have a fold
+7: 3c 9c Qh 2d Kh Jc Kc
+7: folded in round 1 to bet: 6822
+7: placing bet in round 1 : 6822 bankroll: 9887
+Cas: calls in pocket - we have a fold
+Cas: flops: 7s 5c 4c numIn:1
+4: Qs Ts 7s 5c 4c 2s 2d
+4: calling on shit cards
+4: placing bet in round 2 : 6822 bankroll: 3178
+4: Qs Ts 7s 5c 4c 7d 2d
+4: calling on shit cards
+4: placing bet in round 4 : 6822 bankroll: 3178
+4: Qs Ts 7s 5c 4c 7d Ks
+4: calling on shit cards
+4: placing bet in round 6 : 6822 bankroll: 3178
+Cas: Delivering pot to one remainder: 4 : 7535$
+4 : -899
+7 : -7830
+13 : -3673
+6 : -2016
+18 : -2064
+10 : -1126
+12 : 217
+0 : 2086
+2 : -5858
+1 : -450
+15 : -565
+16 : -400
+11 : -2835
+14 : 10506
+5 : -250
+3 : -1469
+17 : 2204
+19 : 5551
+8 : 6798
+9 : 10073
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 9 players:
+Cas: Player: 19
+Cas: Player: 4
+Cas: Player: 8
+Cas: Player: 6
+Cas: Player: 7
+Cas: Player: 0
+Cas: Player: 3
+Cas: Player: 13
+Cas: Player: 15
+19: 5c 6s 9d Kc 4s 5c 4h
+19: calling on shit cards
+19: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+4: Ad Jc 7s 5c 4c 7d Ks
+4: placing bet in round 0 : 2653 bankroll: 7347
+Cas: Cas: got bet: 2653
+8: 3d 7s 9s 2h Jd Jh Qh
+8: folded in round 0 to bet: 2653
+8: placing bet in round 0 : 2653 bankroll: 9950
+Cas: Cas: got bet: 2653
+Cas: we have a fold
+6: Kd 4d null null null null null
+6: folded in round 0 to bet: 2653
+6: placing bet in round 0 : 2653 bankroll: 9950
+Cas: Cas: got bet: 2653
+Cas: we have a fold
+7: 3h Ts Qh 2d Kh Jc Kc
+7: folded in round 0 to bet: 2653
+7: placing bet in round 0 : 2653 bankroll: 9950
+Cas: Cas: got bet: 2653
+Cas: we have a fold
+0: 8h Qd Tc 8s 4s Ts Jc
+0: folded in round: 0 to bet: 2653
+0: placing bet in round 0 : 2653 bankroll: 9950
+Cas: Cas: got bet: 2653
+Cas: we have a fold
+3: 4c 7d 2d 5s 9c Kd Qd
+3: folded in round 0 to bet: 2653
+3: placing bet in round 0 : 2653 bankroll: 9950
+Cas: Cas: got bet: 2653
+Cas: we have a fold
+13: 2c Kc Ks Qh 4h Jc Th
+13: placing bet in round 0 : 2984 bankroll: 7016
+Cas: Cas: got bet: 2984
+15: 7h Js 9s 2h Jd null null
+15: folded in round 0 to bet: 2984
+15: placing bet in round 0 : 2984 bankroll: 9950
+Cas: Cas: got bet: 2984
+Cas: we have a fold
+19: 5c 6s 9d Kc 4s 5c 4h
+19: folded in round 1 to bet: 2984
+19: placing bet in round 1 : 2984 bankroll: 9950
+Cas: calls in pocket - we have a fold
+4: Ad Jc 7s 5c 4c 7d Ks
+4: going all in on: 2984
+4: placing bet in round 1 : 10000 bankroll: 0
+Cas: flops: 5s Qc 9s numIn:2
+4: Ad Jc 5s Qc 9s 7d Ks
+********Something wrong, currentBet < amountIn******
+4: placing bet in round 2 : 0 bankroll: 0
+13: 2c Kc 5s Qc 9s Jc Th
+13: calling on shit cards
+13: placing bet in round 2 : 2984 bankroll: 7016
+4: Ad Jc 5s Qc 9s 9c Ks
+********Something wrong, currentBet < amountIn******
+4: placing bet in round 4 : 0 bankroll: 0
+problems with a turn bet.. less than currentBet!
+13: 2c Kc 5s Qc 9s 9c Th
+13: calling on shit cards
+13: placing bet in round 4 : 2984 bankroll: 7016
+4: Ad Jc 5s Qc 9s 9c Tc
+********Something wrong, currentBet < amountIn******
+4: placing bet in round 6 : 0 bankroll: 0
+problems with a river bet.. less than currentBet!
+13: 2c Kc 5s Qc 9s 9c Tc
+13: going all in on: 2984
+13: placing bet in round 6 : 10000 bankroll: 0
+Cas: pot goes to showdown winner: 13
+4 : -10899
+7 : -7880
+13 : 7127
+6 : -2066
+18 : -2064
+10 : -1126
+12 : 217
+0 : 2036
+2 : -5858
+1 : -450
+15 : -615
+16 : -400
+11 : -2835
+14 : 10506
+5 : -250
+3 : -1519
+17 : 2204
+19 : 5501
+8 : 6748
+9 : 10073
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 3
+Cas: Player: 13
+Cas: Player: 19
+Cas: Player: 10
+Cas: Player: 18
+Cas: Player: 16
+Cas: Player: 5
+3: 2h 9d 2d 5s 9c Kd Qd
+3: calling on shit cards
+3: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+13: Qs 5s 5s Qc 9s 9c Tc
+13: placing bet in round 0 : 227 bankroll: 9773
+Cas: Cas: got bet: 227
+19: 3c Ad 9d Kc 4s 5c 4h
+19: folded in round 0 to bet: 227
+19: placing bet in round 0 : 227 bankroll: 9950
+Cas: Cas: got bet: 227
+Cas: we have a fold
+10: 4s Js 4h 5d 4s 2h Kc
+10: folded in round: 0 to bet: 227
+10: placing bet in round 0 : 227 bankroll: 9950
+Cas: Cas: got bet: 227
+Cas: we have a fold
+18: Ah 3d 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 227
+18: placing bet in round 0 : 227 bankroll: 9950
+Cas: Cas: got bet: 227
+Cas: we have a fold
+16: 4h Ts null null null null null
+16: folded in round 0 to bet: 227
+16: placing bet in round 0 : 227 bankroll: 9950
+Cas: Cas: got bet: 227
+Cas: we have a fold
+5: 4d 6c null null null null null
+5: folded in round 0 to bet: 227
+5: placing bet in round 0 : 227 bankroll: 9950
+Cas: Cas: got bet: 227
+Cas: we have a fold
+3: 2h 9d 2d 5s 9c Kd Qd
+3: folded in round 1 to bet: 227
+3: placing bet in round 1 : 227 bankroll: 9950
+Cas: calls in pocket - we have a fold
+Cas: flops: 6d Kc Ac numIn:1
+13: Qs 5s 6d Kc Ac 9c Tc
+13: calling on shit cards
+13: placing bet in round 2 : 227 bankroll: 9773
+13: Qs 5s 6d Kc Ac 9c Tc
+13: calling on shit cards
+13: placing bet in round 4 : 227 bankroll: 9773
+13: Qs 5s 6d Kc Ac 9c 8h
+13: calling on shit cards
+13: placing bet in round 6 : 227 bankroll: 9773
+Cas: Delivering pot to one remainder: 13 : 877$
+4 : -10899
+7 : -7880
+13 : 7777
+6 : -2066
+18 : -2114
+10 : -1176
+12 : 217
+0 : 2036
+2 : -5858
+1 : -450
+15 : -615
+16 : -450
+11 : -2835
+14 : 10506
+5 : -300
+3 : -1569
+17 : 2204
+19 : 5451
+8 : 6748
+9 : 10073
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 9 players:
+Cas: Player: 17
+Cas: Player: 8
+Cas: Player: 19
+Cas: Player: 1
+Cas: Player: 9
+Cas: Player: 0
+Cas: Player: 14
+Cas: Player: 16
+Cas: Player: 2
+17: 2s 9h 8c 7h 8h 4c 3c
+17: calling on shit cards
+17: placing bet in round 0 : 50 bankroll: 9950
+Cas: Cas: got bet: 50
+8: Ah Js 9s 2h Jd Jh Qh
+8: placing bet in round 0 : 1326 bankroll: 8674
+Cas: Cas: got bet: 1326
+19: 8h Kc 9d Kc 4s 5c 4h
+19: folded in round: 0 to bet: 1326
+19: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+1: 7h 5d 4h 5d 4s 2h Kc
+1: folded in round 0 to bet: 1326
+1: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+9: Jd 2h 9s Ks 2c 4c Kd
+9: folded in round 0 to bet: 1326
+9: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+0: 3d Jh Tc 8s 4s Ts Jc
+0: folded in round: 0 to bet: 1326
+0: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+14: 8d 7d Jh Ah 5h Ac 2c
+14: folded in round 0 to bet: 1326
+14: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+16: Ts 7c null null null null null
+16: folded in round 0 to bet: 1326
+16: placing bet in round 0 : 1326 bankroll: 9950
+Cas: Cas: got bet: 1326
+Cas: we have a fold
+2: Ac Tc 2d Th Qs 3h Jd
+2: placing bet in round 0 : 5306 bankroll: 4694
+Cas: Cas: got bet: 5306
+17: 2s 9h 8c 7h 8h 4c 3c
+17: folded in round 1 to bet: 5306
+17: placing bet in round 1 : 5306 bankroll: 9950
+Cas: calls in pocket - we have a fold
+8: Ah Js 9s 2h Jd Jh Qh
+8: placing bet in round 1 : 5306 bankroll: 4694
+Cas: flops: Qs 4c Qc numIn:2
+8: Ah Js Qs 4c Qc Jh Qh
+8: calling on shit cards
+8: placing bet in round 2 : 5306 bankroll: 4694
+2: Ac Tc Qs 4c Qc 3h Jd
+2: calling on shit cards
+2: placing bet in round 2 : 5306 bankroll: 4694
+8: Ah Js Qs 4c Qc Qh Qh
+8: calling on shit cards
+8: placing bet in round 4 : 5306 bankroll: 4694
+2: Ac Tc Qs 4c Qc Qh Jd
+2: calling on shit cards
+2: placing bet in round 4 : 5306 bankroll: 4694
+8: Ah Js Qs 4c Qc Qh 6h
+8: calling on shit cards
+8: placing bet in round 6 : 5306 bankroll: 4694
+2: Ac Tc Qs 4c Qc Qh 6h
+2: calling on shit cards
+2: placing bet in round 6 : 5306 bankroll: 4694
+Cas: pot goes to showdown winner: 8
+4 : -10899
+7 : -7880
+13 : 7777
+6 : -2066
+18 : -2114
+10 : -1176
+12 : 217
+0 : 1986
+2 : -11164
+1 : -500
+15 : -615
+16 : -500
+11 : -2835
+14 : 10456
+5 : -300
+3 : -1569
+17 : 2154
+19 : 5401
+8 : 12854
+9 : 10023
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 7 players:
+Cas: Player: 4
+Cas: Player: 14
+Cas: Player: 7
+Cas: Player: 12
+Cas: Player: 0
+Cas: Player: 19
+Cas: Player: 18
+4: Jh 6s 5s Qc 9s 9c Tc
+4: placing bet in round 0 : 2274 bankroll: 7726
+Cas: Cas: got bet: 2274
+14: 8s Kh Jh Ah 5h Ac 2c
+14: folded in round 0 to bet: 2274
+14: placing bet in round 0 : 2274 bankroll: 9950
+Cas: Cas: got bet: 2274
+Cas: we have a fold
+7: 3d Tc Qh 2d Kh Jc Kc
+7: folded in round 0 to bet: 2274
+7: placing bet in round 0 : 2274 bankroll: 9950
+Cas: Cas: got bet: 2274
+Cas: we have a fold
+12: Ks 8c 9s 2h Jd 6c 7s
+12: folded in round 0 to bet: 2274
+12: placing bet in round 0 : 2274 bankroll: 9950
+Cas: Cas: got bet: 2274
+Cas: we have a fold
+0: Qd 6d Tc 8s 4s Ts Jc
+0: folded in round: 0 to bet: 2274
+0: placing bet in round 0 : 2274 bankroll: 9950
+Cas: Cas: got bet: 2274
+Cas: we have a fold
+19: Kd Qh 9d Kc 4s 5c 4h
+19: placing bet in round 0 : 7429 bankroll: 2571
+Cas: Cas: got bet: 7429
+18: 9c 7d 4s Ts Kh 6c 7d
+18: folded in round 0 to bet: 7429
+18: placing bet in round 0 : 7429 bankroll: 9950
+Cas: Cas: got bet: 7429
+Cas: we have a fold
+4: Jh 6s 5s Qc 9s 9c Tc
+4: folded in round 1 to bet: 7429
+4: placing bet in round 1 : 7429 bankroll: 7726
+Cas: calls in pocket - we have a fold
+Cas: flops: 5h 3s 9h numIn:1
+19: Kd Qh 5h 3s 9h 5c 4h
+19: calling on shit cards
+19: placing bet in round 2 : 7429 bankroll: 2571
+19: Kd Qh 5h 3s 9h 5d 4h
+19: calling on shit cards
+19: placing bet in round 4 : 7429 bankroll: 2571
+19: Kd Qh 5h 3s 9h 5d 7h
+19: calling on shit cards
+19: placing bet in round 6 : 7429 bankroll: 2571
+Cas: Delivering pot to one remainder: 19 : 10303$
+4 : -13173
+7 : -7930
+13 : 7777
+6 : -2066
+18 : -2164
+10 : -1176
+12 : 167
+0 : 1936
+2 : -11164
+1 : -500
+15 : -615
+16 : -500
+11 : -2835
+14 : 10406
+5 : -300
+3 : -1569
+17 : 2154
+19 : 8275
+8 : 12854
+9 : 10023
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Cas: getting players..
+Casino playing hand with 6 players:
+Cas: Player: 7
+Cas: Player: 16
+Cas: Player: 9
+Cas: Player: 5
+Cas: Player: 3
+Cas: Player: 19
+7: Th Qh Qh 2d Kh Jc Kc
+7: placing bet in round 0 : 398 bankroll: 9602
+Cas: Cas: got bet: 398
+16: 2d Kc null null null null null
+16: folded in round 0 to bet: 398
+16: placing bet in round 0 : 398 bankroll: 9950
+Cas: Cas: got bet: 398
+Cas: we have a fold
+9: Js 3c 9s Ks 2c 4c Kd
+9: folded in round 0 to bet: 398
+9: placing bet in round 0 : 398 bankroll: 9950
+Cas: Cas: got bet: 398
+Cas: we have a fold
+5: 9h 3s null null null null null
+5: folded in round 0 to bet: 398
+5: placing bet in round 0 : 398 bankroll: 9950
+Cas: Cas: got bet: 398
+Cas: we have a fold
+3: 5h 9d 2d 5s 9c Kd Qd
+3: folded in round 0 to bet: 398
+3: placing bet in round 0 : 398 bankroll: 9950
+Cas: Cas: got bet: 398
+Cas: we have a fold
+19: 4c Tc 5h 3s 9h 5d 7h
+19: folded in round 0 to bet: 398
+19: placing bet in round 0 : 398 bankroll: 9950
+Cas: Cas: got bet: 398
+Cas: we have a fold
+Cas: flops: 2h Kh 7c numIn:1
+7: Th Qh 2h Kh 7c Jc Kc
+7: placing bet in round 2 : 6145 bankroll: 3855
+7: Th Qh 2h Kh 7c Qs Kc
+7: placing bet in round 4 : 6322 bankroll: 3678
+7: Th Qh 2h Kh 7c Qs 4s
+7: calling on shit cards
+7: placing bet in round 6 : 6322 bankroll: 3678
+Cas: Delivering pot to one remainder: 7 : 6872$
+4 : -13173
+7 : -7380
+13 : 7777
+6 : -2066
+18 : -2164
+10 : -1176
+12 : 167
+0 : 1936
+2 : -11164
+1 : -500
+15 : -615
+16 : -550
+11 : -2835
+14 : 10406
+5 : -350
+3 : -1619
+17 : 2154
+19 : 8225
+8 : 12854
+9 : 9973

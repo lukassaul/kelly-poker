@@ -1,0 +1,9 @@
+
+/**
+*  Compare random wins and losses to 
+*   one or the other first or last
+*/
+public class OddsComparator {
+
+
+	
