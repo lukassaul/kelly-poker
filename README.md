@@ -9,4 +9,4 @@ Open Sourced in Jan. 2014
 
 Please acknowlege Lukas Saul if using this code.  
 
-All contributions welcom.  
+All contributions welcome.  
